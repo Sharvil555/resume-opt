@@ -1,0 +1,5 @@
+{
+  "name": "ElevateAI Resume Optimizer",
+  "description": "A sophisticated AI-powered tool to tailor resumes, identify skill gaps, and generate high-impact cover letters using Gemini 3 Flash.",
+  "requestFramePermissions": []
+}
